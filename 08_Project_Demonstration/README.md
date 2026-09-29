@@ -55,8 +55,9 @@ The final output demonstrates a Salesforce-based cricket player performance trac
 
 ## 8.7 Demo Video Link
 
-**Google Drive Demo Video:**  
-_To be added after the demonstration video is recorded and uploaded._
+**Google Drive Demo Video:**
+
+https://drive.google.com/file/d/1t3G-mwxcHfurqKS5_QHjoWzyexGI-_SN/view?usp=sharing
 
 ## 8.8 GitHub Repository
 
